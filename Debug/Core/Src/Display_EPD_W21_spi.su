@@ -1,0 +1,5 @@
+Display_EPD_W21_spi.c:4:6:EPD_GPIO_Init	8	static
+Display_EPD_W21_spi.c:37:6:SPI_Delay	16	static
+Display_EPD_W21_spi.c:44:6:SPI_Write	24	static
+Display_EPD_W21_spi.c:63:6:EPD_W21_WriteCMD	16	static
+Display_EPD_W21_spi.c:71:6:EPD_W21_WriteDATA	16	static

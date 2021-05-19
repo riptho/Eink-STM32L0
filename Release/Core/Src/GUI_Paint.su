@@ -1,0 +1,17 @@
+GUI_Paint.c:17:6:Paint_NewImage	12	static
+GUI_Paint.c:47:6:Paint_SelectImage	0	static
+GUI_Paint.c:57:6:Paint_SetRotate	0	static
+GUI_Paint.c:72:6:Paint_SetMirroring	0	static
+GUI_Paint.c:90:6:Paint_SetPixel	12	static
+GUI_Paint.c:158:6:Paint_Clear	12	static
+GUI_Paint.c:178:6:Paint_ClearWindows	32	static
+GUI_Paint.c:196:6:Paint_DrawPoint	48	static
+GUI_Paint.c:232:6:Paint_DrawLine	80	static
+GUI_Paint.c:293:6:Paint_DrawRectangle	56	static
+GUI_Paint.c:325:6:Paint_DrawCircle	80	static
+GUI_Paint.c:393:6:Paint_DrawChar	48	static
+GUI_Paint.c:444:6:Paint_DrawString_EN	48	static
+GUI_Paint.c:489:6:Paint_DrawString_CN	56	static
+GUI_Paint.c:584:6:Paint_DrawNum	560	static
+GUI_Paint.c:624:6:Paint_DrawTime	80	static
+GUI_Paint.c:650:6:Paint_DrawBitMap	16	static

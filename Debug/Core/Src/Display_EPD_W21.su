@@ -1,0 +1,8 @@
+Display_EPD_W21.c:4:6:delay_xms	24	static
+Display_EPD_W21.c:14:6:EPD_W21_Init	8	static
+Display_EPD_W21.c:33:6:EPD_Display	32	static
+Display_EPD_W21.c:57:6:EPD_init	8	static
+Display_EPD_W21.c:71:6:EPD_sleep	8	static
+Display_EPD_W21.c:84:6:PIC_display	24	static
+Display_EPD_W21.c:106:6:PIC_display_Clear	16	static
+Display_EPD_W21.c:127:6:lcd_chkstatus	24	static
